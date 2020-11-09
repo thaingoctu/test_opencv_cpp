@@ -4,6 +4,7 @@ This repository contains small projects to check OpenCV's functions.
 ## Environment
 * Visual Studio 2019
 * OpenCV 4.5.0
+
 The projects are compiled for the x64 platform.
 
 # Project settings
